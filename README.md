@@ -13,4 +13,4 @@
 
 3) Положите файл .bib в корень только что созданного проекта
 
-4) Файл .csf положите в папку стилей библиотеки (C:\Python27\Lib\site-packages\citeproc\data\styles)
+4) Файл .csl положите в папку стилей библиотеки (C:\Python27\Lib\site-packages\citeproc\data\styles)
